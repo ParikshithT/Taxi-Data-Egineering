@@ -1,4 +1,4 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project
+# NYC Taxi Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
 
