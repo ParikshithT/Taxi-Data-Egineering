@@ -31,3 +31,6 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="data_model.jpeg">
+
+## Final Dashboard
+Here's the link to the NYC Taxi Analytics Dashboard: https://lookerstudio.google.com/reporting/c318cbf3-d524-42b1-8444-cdfbe3606f59
